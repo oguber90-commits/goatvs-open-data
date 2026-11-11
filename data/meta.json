@@ -1,0 +1,27 @@
+{
+ "data_as_of": "2026-11-10T18:20:50Z",
+ "lists": [
+  {
+   "list": "movies",
+   "names": 1800,
+   "voters": 555,
+   "votes": 169245,
+   "skips": 56262,
+   "pairs": 154948,
+   "median_votes_per_voter": 36,
+   "imported_votes_left_out": 21344,
+   "share_of_votes_from_top_tenth_of_voters": 0.752
+  },
+  {
+   "list": "songs",
+   "names": 3502,
+   "voters": 546,
+   "votes": 135752,
+   "skips": 30370,
+   "pairs": 128328,
+   "median_votes_per_voter": 44,
+   "imported_votes_left_out": 3077,
+   "share_of_votes_from_top_tenth_of_voters": 0.735
+  }
+ ]
+}
