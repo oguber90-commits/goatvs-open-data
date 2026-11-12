@@ -1,8 +1,9 @@
 # GOATvs open data: what people pick when two greats go head to head
 
-[GOATvs](https://goatvs.com) ranks the greatest of all time by asking one question again and again: here are two
+[GOATvs](https://goatvs.com/?s=r-gh-od) ranks the greatest of all time by asking one question again and again: here are two
 names, which is greater? This repository holds the added-up picks of real visitors for the two lists with the most
-votes, **Movies** (1,800 films) and **Songs, English & Global** (3,502 songs).
+votes, **Movies** (1,800 films) and **Songs, English & Global** (3,502 songs). The live lists: [Movies](https://goatvs.com/top/movies?s=r-gh-od) ·
+[Songs](https://goatvs.com/top/songs?s=r-gh-od).
 
 Data as of 10 November 2026, 18:20 UTC.
 
@@ -127,7 +128,7 @@ each name starts from how well known it is; the fit is a MAP estimate with that 
 name with few duels stays near where it started and a name with many is placed by its results. Each voter's weight
 in a list is capped (300 picks' worth), and so is the weight one voter can put on a single name (8 picks' worth), so
 a few very busy voters cannot decide a list. The site shows how it works in plain words at
-[goatvs.com/about](https://goatvs.com/about).
+[goatvs.com/about](https://goatvs.com/about?s=r-gh-od).
 
 `goatvs_rank` and `goatvs_rating` are the live list at the time of the export. The live list also counts imported
 picks and admin accounts, which the win/loss columns here leave out, so refitting from the pairs file will give a
